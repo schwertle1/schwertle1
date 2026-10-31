@@ -2,7 +2,7 @@
 
 ### 🚀 Öne Çıkan Proje
 
-#### ⏳ Zera Sayaç — Sınav Geri Sayım & Çalışma Asistanı
+#### 🤖 Zera Sınav Asistan Botu
 
 YKS, KPSS, MSÜ, DGS, ALES ve MEB-AGS'ye kalan süreyi saniye saniye takip eden
 Telegram botu ve Telegram Mini App.
