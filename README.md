@@ -15,3 +15,22 @@ Telegram botu ve Telegram Mini App.
 
 **Durum:** Aktif geliştirme · **Canlı demo:** [zerasayac.duckdns.org](https://zerasayac.duckdns.org)
 **Kaynak kodu:** Özel (private) · Talep üzerine paylaşılabilir
+
+---
+
+# 🐺 Asena — Telegram Etiketleme Botu
+
+Gruplarda toplu etiketleme, moderasyon ve eğlence komutlarını tek botta toplayan
+Telegram botu. 48+ komut, renkli butonlar ve katmanlı yetki sistemi.
+
+- 🏷️ Toplu etiketleme, akıllı filtreler ve kayıt sistemi
+- 🛡️ Küfür/bağlantı koruması, uyarı · susturma · ban akışı
+- 🔮 Günlük/haftalık/aylık burç, hava durumu, TDK sözlük, çeviri
+- 🎲 Eğlence komutları ve günlük mesaj havuzları
+
+![Python](https://img.shields.io/badge/Python-3.12-3776AB?logo=python&logoColor=white)
+![Telegram](https://img.shields.io/badge/Telegram_Bot-26A5E4?logo=telegram&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
+
+**Durum:** Canlı · **Bot:** [@tagasenabot](https://t.me/tagasenabot)
+**Kaynak kodu:** Özel (private) · Talep üzerine paylaşılabilir
