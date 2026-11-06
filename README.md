@@ -1,6 +1,6 @@
 ### Projeler
 
-- 🤖 **[Zera](#-zera--s%C4%B1nav-asistan-botu)** — YKS · KPSS · MSÜ · DGS · ALES · MEB-AGS geri sayım botu → [canlı demo](https://zerasayac.duckdns.org)
+- 🤖 **[Zera](#-zera--s%C4%B1nav-asistan-botu)** — YKS · KPSS · MSÜ · DGS · ALES · MEB-AGS geri sayım botu → [@ykssurebot](https://t.me/ykssurebot) · [canlı demo](https://zerasayac.duckdns.org)
 - 🐺 **[Asena](#-asena--telegram-etiketleme-botu)** — gruplarda toplu etiketleme ve moderasyon botu → [@tagasenabot](https://t.me/tagasenabot)
 - 🐥 **[Milena UNO](#-milena-uno)** — tam kurallı UNO botu: takım modu, 1vs1, istatistik, 3 dil → [@unomilenabot](https://t.me/unomilenabot)
 
@@ -22,7 +22,7 @@ Telegram botu ve Telegram Mini App.
 ![Telegram](https://img.shields.io/badge/Telegram_Bot-26A5E4?logo=telegram&logoColor=white)
 
 **Durum:** Aktif geliştirme
-**Bot / Demo:** [zerasayac.duckdns.org](https://zerasayac.duckdns.org) · Telegram Mini App
+**Bot / Demo:** [@ykssurebot](https://t.me/ykssurebot) · [zerasayac.duckdns.org](https://zerasayac.duckdns.org) · Telegram Mini App
 **Kaynak kodu:** Özel (private) · Talep üzerine paylaşılabilir
 
 ---
