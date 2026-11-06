@@ -1,4 +1,12 @@
-# 🤖 Zera Sınav Asistan Botu
+### Projeler
+
+- 🤖 **[Zera](#-zera--s%C4%B1nav-asistan-botu)** — YKS · KPSS · MSÜ · DGS · ALES · MEB-AGS geri sayım botu → [canlı demo](https://zerasayac.duckdns.org)
+- 🐺 **[Asena](#-asena--telegram-etiketleme-botu)** — gruplarda toplu etiketleme ve moderasyon botu → [@tagasenabot](https://t.me/tagasenabot)
+- 🐥 **[Milena UNO](#-milena-uno)** — tam kurallı UNO botu: takım modu, 1vs1, istatistik, 3 dil → [@unomilenabot](https://t.me/unomilenabot)
+
+---
+
+# 🤖 Zera — Sınav Asistan Botu
 
 YKS, KPSS, MSÜ, DGS, ALES ve MEB-AGS'ye kalan süreyi saniye saniye takip eden
 Telegram botu ve Telegram Mini App.
@@ -13,7 +21,8 @@ Telegram botu ve Telegram Mini App.
 ![React](https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=black)
 ![Telegram](https://img.shields.io/badge/Telegram_Bot-26A5E4?logo=telegram&logoColor=white)
 
-**Durum:** Aktif geliştirme · **Canlı demo:** [zerasayac.duckdns.org](https://zerasayac.duckdns.org)
+**Durum:** Aktif geliştirme
+**Bot / Demo:** [zerasayac.duckdns.org](https://zerasayac.duckdns.org) · Telegram Mini App
 **Kaynak kodu:** Özel (private) · Talep üzerine paylaşılabilir
 
 ---
@@ -32,7 +41,8 @@ Telegram botu. 48+ komut, renkli butonlar ve katmanlı yetki sistemi.
 ![Telegram](https://img.shields.io/badge/Telegram_Bot-26A5E4?logo=telegram&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
 
-**Durum:** Canlı · **Bot:** [@tagasenabot](https://t.me/tagasenabot)
+**Durum:** Canlı
+**Bot / Demo:** [@tagasenabot](https://t.me/tagasenabot)
 **Kaynak kodu:** Özel (private) · Talep üzerine paylaşılabilir
 
 ---
@@ -52,5 +62,6 @@ modları; 2v2–5v5 takım oyunu, istatistikler ve rozetler.
 ![Telegram](https://img.shields.io/badge/Telegram_Bot-26A5E4?logo=telegram&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
 
-**Durum:** Aktif geliştirme
-**Kaynak kodu:** Özel (private) — Talep üzerine paylaşılabilir
+**Durum:** Canlı
+**Bot / Demo:** [@unomilenabot](https://t.me/unomilenabot)
+**Kaynak kodu:** Özel (private) · Talep üzerine paylaşılabilir
